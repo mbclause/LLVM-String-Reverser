@@ -1,0 +1,16 @@
+# ninja log v6
+7	20	7727875516446874	clean	8c45b54705a541e8
+6	18	7727876594917462	clean	8c45b54705a541e8
+27	1296	7727876620123256	lib/CMakeFiles/LLVM-Tutorial.dir/util.cpp.obj	10d3fe481d376d2a
+16	5991	7727876619964432	lib/CMakeFiles/LLVM-Tutorial.dir/plugin-registration.cpp.obj	a06c2636544ef791
+24	6179	7727876620123256	lib/CMakeFiles/LLVM-Tutorial.dir/string-reverser.cpp.obj	91d74815df75851a
+20	6306	7727876620123256	lib/CMakeFiles/LLVM-Tutorial.dir/string-analysis.cpp.obj	e15e15b25332536b
+6307	15931	7727876776141449	lib/LLVM-Tutorial.dll	20ca26137554a306
+6307	15931	7727876776141449	lib/LLVM-Tutorial.lib	20ca26137554a306
+20	35	7727880928006485	clean	8c45b54705a541e8
+41	1264	7727880952666881	lib/CMakeFiles/LLVM-Tutorial.dir/util.cpp.obj	10d3fe481d376d2a
+27	6029	7727880952547724	lib/CMakeFiles/LLVM-Tutorial.dir/plugin-registration.cpp.obj	a06c2636544ef791
+36	6177	7727880952626759	lib/CMakeFiles/LLVM-Tutorial.dir/string-reverser.cpp.obj	91d74815df75851a
+32	6358	7727880952547724	lib/CMakeFiles/LLVM-Tutorial.dir/string-analysis.cpp.obj	e15e15b25332536b
+6358	7228	7727881021187891	lib/LLVM-Tutorial.dll	20ca26137554a306
+6358	7228	7727881021187891	lib/LLVM-Tutorial.lib	20ca26137554a306
