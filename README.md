@@ -19,7 +19,7 @@ The plugin is built using LLVM’s **modern pass manager**, and integrates with 
 
 ## 📦 Requirements
 
-- **LLVM** (tested with version X.X.X – fill in your version)
+- **LLVM**
   - Must be **built from source or installed with `opt` and development headers**
   - The plugin is compatible with LLVM built in either Debug or Release mode — but your plugin build must match the `_ITERATOR_DEBUG_LEVEL`
 
